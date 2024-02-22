@@ -1,2 +1,2 @@
 # ellez.me
-Personal website
+Personal website based on Next.js
