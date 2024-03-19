@@ -13,7 +13,7 @@ export default function Home() {
         <div>
           <p className=" text-3xl font-serif mr-6" >About Me </p>
           <h1 className="flex">
-            Hi, I'm Elle Zou, a Full-Stack Software Engineer. Currently pursuing my Master's degree in Software Engineering at SMU Dallas, I specialize in developing web, mobile and GIS applications, focusing on creating seamless user experiences. I'm also exploring the fascinating realm of machine learning.
+            Hi, I&apos;m Elle Zou, a Full-Stack Software Engineer. Currently pursuing my Master&apos;s degree in Software Engineering at SMU Dallas, I specialize in developing web, mobile and GIS applications, focusing on creating seamless user experiences. I&apos;m also exploring the fascinating realm of machine learning.
           </h1>
           <ul className="flex space-x-4">
             <li>
