@@ -7,13 +7,13 @@ import { FiMail } from "react-icons/fi";
 export default function Home() {
   return (
 
-    <main className="flex min-h-screen flex-col p-24 items-center bg-red-100">
+    <main className="flex min-h-screen flex-col p-24 items-center bg-red-100 bg-gradient-to-r from-red-100 to-red-300 w-full h-24">
       <div id="profile" className="md:flex p-10  max-w-4xl place-items-center">
-        <img src="/image.jpg" className="w-32 h-32 mr-12"></img>
+        <img src="/image.jpg" className="rounded-full w-32 h-32 mr-12"></img>
         <div>
-          <p className=" text-3xl font-serif mr-6" >Elle Zou</p>
+          <p className=" text-3xl font-serif mr-6" >About Me </p>
           <h1 className="flex">
-            Hi, I'm Elle, a Full-Stack Software Engineer. Currently pursuing my Master's degree in Software Engineering at SMU Dallas, I specialize in developing web, mobile and GIS applications, focusing on creating seamless user experiences. I'm also exploring the fascinating realm of machine learning.
+            Hi, I'm Elle Zou, a Full-Stack Software Engineer. Currently pursuing my Master's degree in Software Engineering at SMU Dallas, I specialize in developing web, mobile and GIS applications, focusing on creating seamless user experiences. I'm also exploring the fascinating realm of machine learning.
           </h1>
           <ul className="flex space-x-4">
             <li>
